@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-以下并不说明什么... 就是挺酷的
+I'm a front-end developer.
+
+The following looks cool but it doesn't tell anything.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ykzhukian&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
