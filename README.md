@@ -12,4 +12,7 @@ More about me:
 https://ykzhukian.github.io
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
