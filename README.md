@@ -10,3 +10,6 @@ The following looks cool but it doesn't prove anything.
 
 More about me: 
 https://ykzhukian.github.io
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
