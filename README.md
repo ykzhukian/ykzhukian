@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a front-end developer.
+I'm a front-end developer
 
 The following looks cool but it doesn't prove anything.
 
