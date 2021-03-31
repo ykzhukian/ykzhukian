@@ -1,14 +1,14 @@
-name: Waka Readme
+name: WakaTime Readme
 
 on:
-  workflow_dispatch:
+  push:
+    branches:
+      - master
   schedule:
-    # Runs at 12am UTC
-    - cron: "0 7 * * *"
+    - cron: '0 19 * * *'
 
 jobs:
   update-readme:
-    name: Update wakatime
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
