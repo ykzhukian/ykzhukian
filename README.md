@@ -13,6 +13,9 @@ https://ykzhukian.github.io
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+TypeScript   53 mins         ████████████████░░░░░░░░░   63.66 % 
+YAML         16 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.17 % 
+JavaScript   9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+JSON         5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
 ```
 <!--END_SECTION:waka-->
