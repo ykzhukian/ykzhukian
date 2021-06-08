@@ -13,10 +13,10 @@ https://ykzhukian.github.io
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   16 hrs 10 mins  █████████████░░░░░░░░░░░░   52.26 % 
-LESS         6 hrs 33 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.18 % 
-JSX          3 hrs 53 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-JSON         1 hr 50 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-JavaScript   1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+TypeScript   16 hrs 8 mins   ████████████▓░░░░░░░░░░░░   50.36 % 
+LESS         5 hrs 35 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.42 % 
+JSX          4 hrs 27 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+JSON         1 hr 50 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Markdown     1 hr 29 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 ```
 <!--END_SECTION:waka-->
