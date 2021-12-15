@@ -2,7 +2,7 @@
 
 I'm a front-end developer.
 
-The following looks cool but it doesn't prove anything.
+The following looks cool but it doesn't tell anything.
 
 [<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=ykzhukian&show_icons=true&theme=dracula">](https://github.com/anuraghazra/github-readme-stats)
 
