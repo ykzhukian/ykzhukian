@@ -9,7 +9,6 @@ https://ykzhukian.github.io
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   15 mins         ██████████████████████▓░░   90.16 % 
-Other      1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+Markdown   15 mins         ████████████████████████▓   99.30 % 
 ```
 <!--END_SECTION:waka-->
