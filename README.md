@@ -10,12 +10,12 @@ https://ykzhukian.github.io
 <!--START_SECTION:waka-->
 
 ```text
-Markdown                   3 hrs 34 mins   ███████████░░░░░░░░░░░░░░   44.24 %
-JavaScript                 2 hrs 11 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.19 %
-Nginx configuration file   49 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
-Docker                     32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
-HTML                       21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-YAML                       14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+Markdown                   3 hrs 23 mins   ████████████▒░░░░░░░░░░░░   48.74 %
+JavaScript                 2 hrs 12 mins   ████████░░░░░░░░░░░░░░░░░   31.70 %
+Docker                     26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+HTML                       15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+YAML                       14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+Other                      8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
 ```
 
 <!--END_SECTION:waka-->
