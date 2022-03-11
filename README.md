@@ -10,9 +10,7 @@ https://ykzhukian.github.io
 <!--START_SECTION:waka-->
 
 ```text
-Rust         7 mins          ███████████▒░░░░░░░░░░░░░   44.79 %
-YAML         5 mins          ████████▓░░░░░░░░░░░░░░░░   35.04 %
-TypeScript   3 mins          █████░░░░░░░░░░░░░░░░░░░░   20.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
