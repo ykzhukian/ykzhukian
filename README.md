@@ -10,7 +10,8 @@ https://ykzhukian.github.io
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Rust   7 mins          █████████████████████████   99.81 %
+JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
