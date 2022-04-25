@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm a front-end developer.
+not sure why I stick it here:
 
 [<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ykzhukian&show_icons=true&theme=dracula">](https://github.com/anuraghazra/github-readme-stats)
 
-More about me: 
-https://ykzhukian.github.io
+
+things going on recently:
 
 <!--START_SECTION:waka-->
 
@@ -16,3 +16,8 @@ Other        1 hr 20 mins    █░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+👉 [my GitHub Pages](https://ykzhukian.github.io)
+
+Cheers, have a great day.
+
