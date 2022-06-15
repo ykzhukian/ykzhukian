@@ -10,10 +10,11 @@ things going on recently:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript                 23 hrs 23 mins  █████████████████████▓░░░   86.07 %
-JavaScript                 2 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
-JSON                       54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-Other                      17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+TypeScript                 23 hrs 1 min    █████████████████████░░░░   83.41 %
+Bash                       1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+JSON                       1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+JavaScript                 1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+Other                      17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 ```
 
 <!--END_SECTION:waka-->
