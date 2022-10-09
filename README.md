@@ -10,7 +10,10 @@ things going on recently:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TypeScript   2 hrs 45 mins   ████████████████████▒░░░░   81.69 %
+Markdown     25 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
+JSON         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
 
 <!--END_SECTION:waka-->
