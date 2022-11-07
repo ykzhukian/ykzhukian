@@ -11,7 +11,7 @@ things going on recently:
 
 ```text
 TypeScript   16 hrs 23 mins  █████████████████████░░░░   84.64 %
-JavaScript   2 hrs           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
+JavaScript   2 hrs           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
 JSON         35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
 Other        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
 ```
