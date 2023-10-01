@@ -13,7 +13,7 @@ things going on recently:
 TypeScript        10 hrs 24 mins  ████████████████████░░░░░   79.98 %
 YAML              1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
 JSON              55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
-JavaScript        18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+JavaScript        18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
 Java Properties   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
